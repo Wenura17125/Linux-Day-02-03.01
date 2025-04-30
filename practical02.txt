@@ -1,0 +1,21 @@
+pwd(Print Working Directory) - Shows the full path of the current directory.
+
+who - Shows a list of users currently logged into the system.
+who - Shows the current user
+
+awk - A text-processing tool used for pattern scanning and data manipulation.
+		
+sed(Stream Editor) - is a powerful command-line tool used for searching, replacing, inserting, 
+and deleting text in files or input streams. It works by processing text line by line, making it useful for automation and scripting.
+
+ls -ltr - The ls command is used to list files and directories. The -ltr options modify how the output is displayed.
+
+ls -a - Command used to list all files and directories, including hidden ones (files that start with .).
+
+Other ls Commands:
+
+ls	Lists only visible files.
+ls -l	  Long format (detailed view).
+ls -lh	  Long format with human-readable sizes.
+ls -la	  Long format + show hidden files.
+ls -ltr	  Sorts files by time, oldest first.
